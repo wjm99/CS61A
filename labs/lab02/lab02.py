@@ -47,7 +47,7 @@ def count_cond(condition):
     8
     """
     "*** YOUR CODE HERE ***"
-    def count(n):
+    def Count(n):
         i, count = 1, 0
         while i <= n:
             if condition(n, i):
